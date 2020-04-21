@@ -1,0 +1,9 @@
+img {
+    max-width: 800px;
+    padding: 5px;
+}
+
+img:hover {
+    max-width: 800px;
+    border: 1px solid black;
+}

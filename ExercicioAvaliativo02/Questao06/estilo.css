@@ -1,0 +1,14 @@
+.painel {
+    border: 1px solid skyblue;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.botao {
+    background-color: slategray;
+    border: none;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+}
